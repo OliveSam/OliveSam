@@ -1,5 +1,4 @@
-Hello, welcome to my profile!
-My name is Samuel
+Hello, my name is Samuel.
 ==========================
 
 Java Software Developer
